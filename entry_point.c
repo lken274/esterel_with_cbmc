@@ -25,5 +25,4 @@ int main () {
         ABRO_I_B();
     }
     ABRO_run();
-    assert(0);
 }
